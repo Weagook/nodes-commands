@@ -15,6 +15,10 @@
     rm -rf .shardeum
     rm installer.sh
     
+Проверка активных докеров
+
+    docker ps
+    
 ### Subspaced
 
 Проверка логов
